@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.finease" />
+                  <option name="mobileSdkAppId" value="1:388830124229:android:658c011a5272e3e90ab8ac" />
+                  <option name="projectId" value="finease-235d4" />
+                  <option name="projectNumber" value="388830124229" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
