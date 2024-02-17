@@ -27,7 +27,7 @@
 
     <Button
         android:id="@+id/btn_signup"
-        android:layout_width="110dp"
+        android:layout_width="146dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
         android:elevation="5dp"
@@ -45,7 +45,7 @@
 
     <Button
         android:id="@+id/btn_login"
-        android:layout_width="110dp"
+        android:layout_width="146dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="108dp"
         android:elevation="5dp"
