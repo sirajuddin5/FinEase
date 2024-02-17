@@ -39,6 +39,7 @@ class SignupActivity : AppCompatActivity() {
                     .add(user)
                     .addOnSuccessListener { documentReference->
                         Log.d("STORING","Document added with id:${documentReference.id}")
+                        Toast.makeText(this, "User Added Successfully", Toast.LENGTH_SHORT).show()
                     }
                     .addOnFailureListener {
                         Toast.makeText(this, "Some Error Ocurred", Toast.LENGTH_SHORT).show()

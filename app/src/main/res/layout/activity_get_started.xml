@@ -71,6 +71,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.252"
-        app:srcCompat="@drawable/GetStartedimage" />
+        app:srcCompat="@drawable/getstartedimage" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
